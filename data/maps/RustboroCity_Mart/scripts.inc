@@ -46,6 +46,32 @@ RustboroCitySpeedchoice_Mart_Items1:: @ 8157C00
 	.2byte ITEM_X_DEFENSE
 	.2byte ITEM_X_SP_ATK
     .2byte ITEM_X_SP_DEF
+	 .2byte ITEM_SUN_STONE
+    .2byte ITEM_MOON_STONE
+    .2byte ITEM_FIRE_STONE
+    .2byte ITEM_THUNDER_STONE
+    .2byte ITEM_WATER_STONE
+    .2byte ITEM_LEAF_STONE
+    .2byte ITEM_DAWN_STONE
+    .2byte ITEM_DUSK_STONE
+    .2byte ITEM_LEAF_STONE
+    .2byte ITEM_SHINY_STONE
+    .2byte ITEM_ICE_STONE
+	.2byte ITEM_UP_GRADE
+    .2byte ITEM_DUBIOUS_DISC
+    .2byte ITEM_DRAGON_SCALE
+    .2byte ITEM_DEEP_SEA_TOOTH
+    .2byte ITEM_DEEP_SEA_SCALE
+    .2byte ITEM_METAL_COAT
+    .2byte ITEM_KINGS_ROCK
+    .2byte ITEM_ELECTIRIZER
+    .2byte ITEM_MAGMARIZER
+    .2byte ITEM_OVAL_STONE
+    .2byte ITEM_PROTECTOR
+    .2byte ITEM_RAZOR_CLAW
+    .2byte ITEM_RAZOR_FANG
+    .2byte ITEM_REAPER_CLOTH
+    .2byte ITEM_PRISM_SCALE
 	.2byte ITEM_NONE
 	release
 	end
@@ -90,6 +116,32 @@ RustboroCitySpeedchoice_Mart_Items2:: @ 8157C28
 	.2byte ITEM_X_DEFENSE
 	.2byte ITEM_X_SP_ATK
     .2byte ITEM_X_SP_DEF
+	 .2byte ITEM_SUN_STONE
+    .2byte ITEM_MOON_STONE
+    .2byte ITEM_FIRE_STONE
+    .2byte ITEM_THUNDER_STONE
+    .2byte ITEM_WATER_STONE
+    .2byte ITEM_LEAF_STONE
+    .2byte ITEM_DAWN_STONE
+    .2byte ITEM_DUSK_STONE
+    .2byte ITEM_LEAF_STONE
+    .2byte ITEM_SHINY_STONE
+    .2byte ITEM_ICE_STONE
+	.2byte ITEM_UP_GRADE
+    .2byte ITEM_DUBIOUS_DISC
+    .2byte ITEM_DRAGON_SCALE
+    .2byte ITEM_DEEP_SEA_TOOTH
+    .2byte ITEM_DEEP_SEA_SCALE
+    .2byte ITEM_METAL_COAT
+    .2byte ITEM_KINGS_ROCK
+    .2byte ITEM_ELECTIRIZER
+    .2byte ITEM_MAGMARIZER
+    .2byte ITEM_OVAL_STONE
+    .2byte ITEM_PROTECTOR
+    .2byte ITEM_RAZOR_CLAW
+    .2byte ITEM_RAZOR_FANG
+    .2byte ITEM_REAPER_CLOTH
+    .2byte ITEM_PRISM_SCALE
 	.2byte ITEM_NONE
 	release
 	end
