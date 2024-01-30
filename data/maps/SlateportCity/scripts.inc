@@ -149,7 +149,7 @@ SlateportCity_EventScript_EnergyGuru:: @ 81DCDBD
 
 SlateportCity_Pokemart_EnergyGuru: @ 81DCDD4
 	.2byte ITEM_PROTEIN
-	.2byte ITEM_IRON
+	.2BYTE ITEM_IRON
 	.2byte ITEM_CARBOS
 	.2byte ITEM_ZINC
 	.2byte ITEM_CALCIUM
