@@ -99,7 +99,9 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
                                        {EVO_ITEM, ITEM_WATER_STONE, SPECIES_VAPOREON},
                                        {EVO_ITEM, ITEM_FIRE_STONE, SPECIES_FLAREON},
                                        {EVO_FRIENDSHIP_DAY, 0, SPECIES_ESPEON},
+                                       {EVO_ITEM, ITEM_SUN_STONE, SPECIES_ESPEON}
                                        {EVO_FRIENDSHIP_NIGHT, 0, SPECIES_UMBREON},
+                                       {EVO_ITEM,ITEM_MOON_STONE, SPECIES_UMBREON}
                                        {EVO_SPECIFIC_MAP, MAP_PETALBURG_WOODS, SPECIES_LEAFEON},
                                        {EVO_ITEM, ITEM_LEAF_STONE, SPECIES_LEAFEON},
                                        {EVO_SPECIFIC_MAP, MAP_SHOAL_CAVE_LOW_TIDE_ICE_ROOM, SPECIES_GLACEON},
@@ -195,7 +197,8 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
     [SPECIES_WAILMER]               = {{EVO_LEVEL, 40, SPECIES_WAILORD}},
     [SPECIES_SKITTY]                = {{EVO_ITEM, ITEM_MOON_STONE, SPECIES_DELCATTY}},
     [SPECIES_BALTOY]                = {{EVO_LEVEL, 36, SPECIES_CLAYDOL}},
-    [SPECIES_NOSEPASS]              = {{EVO_MAPSEC, MAPSEC_NEW_MAUVILLE, SPECIES_PROBOPASS}},
+    [SPECIES_NOSEPASS]              = {{EVO_MAPSEC, MAPSEC_NEW_MAUVILLE, SPECIES_PROBOPASS},
+                                       {EVO_ITEM, ITEM_THUNDER_STONE, SPECIES_PROBOPASS}},
     [SPECIES_SABLEYE]               = {{EVO_MEGA_EVOLUTION, ITEM_SABLENITE, SPECIES_SABLEYE_MEGA}},
     [SPECIES_BARBOACH]              = {{EVO_LEVEL, 30, SPECIES_WHISCASH}},
     [SPECIES_CORPHISH]              = {{EVO_LEVEL, 30, SPECIES_CRAWDAUNT}},
